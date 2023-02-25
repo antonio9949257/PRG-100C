@@ -1,4 +1,4 @@
-#Laboratory PRG-100C
+##Laboratory PRG-100C
 
 Este repositorio contiene las tareas de la materia Programacion-100
 
