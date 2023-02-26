@@ -1,4 +1,4 @@
-# Tarea1: Programa para realizar operaciones matemáticas básicas
+# Tarea4: Programa para realizar operaciones matemáticas básicas
 
 Este es un programa en C++ que permite realizar operaciones matemáticas básicas, tales como suma, resta, multiplicación y división, a partir de dos números ingresados por el usuario. El programa solicita al usuario que ingrese dos números enteros, y luego realiza las cuatro operaciones mencionadas. Los resultados se muestran en pantalla.
 
