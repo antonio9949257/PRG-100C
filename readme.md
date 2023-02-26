@@ -16,4 +16,4 @@ Realiza la: suma, resta, multiplicacion, divicion.
 
 ## Instrucciones de uso
 
-Para utilizar cualquiera de estoy archivos de este repositorio, sigue las instrucciones que se encuentran en el `README.md` de cada proyecto. Asegúrate de tener instaladas todas las dependencias necesarias antes de intentar ejecutar cualquier proyecto.
+Para utilizar cualquiera de estoy archivos de este repositorio, sigue las instrucciones que se encuentran en el `README.md` de cada tarea. Asegúrate de tener instaladas todas las dependencias necesarias antes de intentar ejecutar cualquier proyecto.
