@@ -19,12 +19,13 @@ Este es un programa en C++ que permite realizar operaciones matemáticas básica
 
 ```terminal
 tarea1.cpp -o tarea1
+```
 
 ```terminal
 ./tarea1
 Introduzca dos Numeros: 10 5
 La Suma es: 15La resta es: 5la multiplicacion es: 50la divicion es: 2
-
+```
 ## Autor
 
 Este programa fue desarrollado por Fail como tarea para PRG-100C, en EISPDM.
@@ -49,4 +50,4 @@ int main()
     cout<< "la divicion es: "<<divicion;
     return 0;
 }
-
+```
