@@ -24,7 +24,11 @@ tarea1.cpp -o tarea1
 ```terminal
 ./tarea1
 Introduzca dos Numeros: 10 5
-La Suma es: 15La resta es: 5la multiplicacion es: 50la divicion es: 2
+
+La Suma es: 15
+La resta es: 5
+la multiplicacion es: 50
+la divicion es: 2
 ```
 ## Autor
 
