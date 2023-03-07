@@ -13,7 +13,7 @@ int main()
     divicion = a/b;
     cout<< "La Suma es: "<<suma;
     cout<< "La resta es: "<<resta;
-    multiplicacion<< "la multiplicacion es: "<<multiplicacion;
+    cout<< "la multiplicacion es: "<<multiplicacion;
     cout<< "la divicion es: "<<divicion;
     return 0;
 }
